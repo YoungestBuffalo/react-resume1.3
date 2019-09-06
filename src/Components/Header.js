@@ -35,7 +35,7 @@ class Header extends Component {
 
       </nav>
       
-      <div className="row banner" style={{position: 'absolute', top: 5 + '%', left: -30 + '%', width: 100 + '%', height: 80 + '%', display: 'vertical'}}>
+      <div className="row banner" style={{position: 'absolute', top: 7 + '%', left: -30 + '%', width: 100 + '%', height: 80 + '%', display: 'vertical'}}>
          <div className="banner-text">
             <ul className="social">
             {networks}
