@@ -35,14 +35,14 @@ class Header extends Component {
 
       </nav>
       
-      <div className="row banner" style={{position: 'absolute', top: 50 + 'px', left: -300, width: 200 + 'px', height: 820 + 'px', display: 'vertical'}}>
+      <div className="row banner" style={{position: 'absolute', top: 5 + '%', left: -30 + '%', width: 100 + '%', height: 80 + '%', display: 'vertical'}}>
          <div className="banner-text">
             <ul className="social">
             {networks}
             </ul>
          </div>
       </div>
-      <div className="row banner" style={{position: 'absolute', top: 50 + 'px', left: 700, width: 400 + 'px', height: 820 + 'px'}}>
+      <div className="row banner" style={{position: 'absolute', top: 5 + '%', left: 20 + '%', width: 50 + '%', height: 80 + '%'}}>
          <div className="banner-text">
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>I'm a {city} based <span>{occupation}</span>. {description}.</h3>
