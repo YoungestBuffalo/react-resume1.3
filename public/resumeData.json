@@ -124,18 +124,11 @@
         "image":"moviedb.jpg",
         "url":"https://youngestbuffalo.github.io/movieApiSearch/"
       },
-      
       {
-        "title":"Color Blocks",
-        "category":"Basic HTML Website",
-        "image":"colorBlocks.jpg",
-        "url":"https://youngestbuffalo.github.io/colorblocksHTML/"
-      },
-      {
-        "title":"MovieDBSearch",
-        "category":"This react app showcases use of the MovieDB api, with a working movie title search",
+        "title":"MovieDBSearch Git Repo",
+        "category":"This is a link to the code.",
         "image":"moviedb.jpg",
-        "url":"https://youngestbuffalo.github.io/movieApiSearch/"
+        "url":"https://github.com/YoungestBuffalo/movieApiSearch"
       },
       
       {
@@ -143,6 +136,12 @@
         "category":"Basic HTML Website",
         "image":"colorBlocks.jpg",
         "url":"https://youngestbuffalo.github.io/colorblocksHTML/"
+      },
+      {
+        "title":"Color Blocks Git Repo",
+        "category":"Here was the HTML code",
+        "image":"colorBlocks.jpg",
+        "url":"https://github.com/YoungestBuffalo/colorblocksHTML"
       }
     ],
     "projects2": [
@@ -157,19 +156,8 @@
         "category":"This project/idea is originally a fork from Jean Lange, and a project we worked on in class in ruby. I will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link.",
         "image":"rogue.gif",
         "url":"https://github.com/YoungestBuffalo/rogue"
-      },
-      {
-        "title":"Game of Life",
-        "category":"C#/MVC windows app, Conway's game of life, THIS IS NOT POSTED OR FINISHED. The link brings you to the current sites repo",
-        "image":"gol.gif",
-        "url":"https://github.com/YoungestBuffalo/resume-site"
-      },
-      {
-        "title":"Rogue Game",
-        "category":"This project/idea is originally a fork from Jean Lange, and a project we worked on in class in ruby. I will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link.",
-        "image":"rogue.gif",
-        "url":"https://github.com/YoungestBuffalo/rogue"
       }
+     
     ]
   } ,
   "testimonials":{
