@@ -25,8 +25,10 @@ class App extends Component {
   }
 
   getResumeData(){
+    // TODO: bounce this const out to a .env file. https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables
+    const basePath = process.env.NODE_ENV === 'production' ? '/react-resume1.3' : ''
     $.ajax({
-      url:'/resumeData.json',
+      url:`${basePath}/resumeData.json`,
       dataType:'json',
       cache: false,
       success: function(data){
