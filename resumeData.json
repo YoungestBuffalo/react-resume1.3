@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Julian Orr",
+    "occupation":"Web Developer",
+    "description":" I enjoy multiple creative outlets, but I am currently attempting to become a full stack developer",
+    "image":"profilepic.jpg",
+    "bio":"I was first exposed to programming in middle school when my family moved from our home in Spokane, Washington to the South Hills of Pittsburgh. I wasn’t exactly a model student, I was excited to learn, I liked playing music, and I loved computer games. The traditional school system felt constrictive to creative thought and seemed to reward the wrong style of learning. Personally, I had better experiences with learning through different styles of mentorship. While graduating from Mount Lebanon I struggled to find something that spoke to my core as a career path. I wasn’t extremely keen on continuing my traditional education, but I felt the pressure to continue academically, especially because of the importance of a degree in most fields. I enrolled in college to study biology at Unity College in Maine. After a semester of undergrad I knew that I wanted to do something different. I finished my first year of studies, and moved back to Pittsburgh to find work. I eventually found that programming was a great thing to study! It satisfies my interest in understanding complex ideas, my pursuit of challenging material, and my passion for creativity. I have found the most value studying software development on my own and with various mentors. I enjoy coding because I am always learning new methods and styles and most communities online are encouraging and open minded.",
+    "tldr": "TL;DR I am a hireable, young, professional, entry level programmer and bootcamp grad, with a strong interest in learning new and interesting material. (preferably at a job/contract)",
+    "contactmessage":"Feel free to email, call or text if you would like more information about me",
+    "email": "j.henry.b.orr@gmail.com",
+    "phone": "509-844-8781",
+    "address":{
+      "street":"30 S 13th Street",
+      "city":"Pittsburgh",
+      "state":"PA",
+      "zip": "15203"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"RESUMEDC.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/YoungestBuffalo",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"soundcloud",
+        "url":"https://soundcloud.com/julianhenrymusic",
+        "className":"fa fa-cloud"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/young_buffalo/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/julian-orr-06b342174/",
+        "className":"fa fa-linkedin"
+      }
+
+
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills",
+    "education":[
+      {
+        "school":"Academy Pittsburgh",
+        "degree":"Developer Bootcamp",
+        "graduated":"December 2018",
+        "description":"I learned the basics of programming in multiple frameworks. I learned how to google using syntax and find answers to/tutorials online for information when needed. I learned the importance of teamwork in development, having a mentor, meeting goals, improving daily."
+      },
+      {
+        "school":"CCAC",
+        "degree":"Information Technology",
+        "graduated":"Ongoing",
+        "description":"I am constantly looking for new learning opportunities. I have taken various classes at the community college, many in information technology"
+      }
+    ],
+    "work":[
+      {
+        "company":"Fairmont Pittsburgh",
+        "title":"Steward ",
+        "years":"August 2017 - Present",
+        "description":"I worked overnights cleaning the large equipment (grills, fryers, etc) for a year, now I work during the day doing various cleaning tasks"
+      },
+      {
+        "company":"Chipotle Mexican Grill",
+        "title":"Crew Member",
+        "years":"November 2014 - August 2017",
+        "description":"I worked here as soon as I got my workers permit. I worked all through high school. I can still make a mean burrito."
+      }
+    ],
+    "skills":[
+      {
+        "title":"Git",
+        "category":"I am very comfortable using Git and Github, and Git pages. I might have to look up how to get out of vim.",
+        "image":"github.jpg"
+       
+      },
+      {
+        "title":"React.Js",
+        "category":"I love React! Single page web apps are awesome and intuitive.",
+        "image":"react.jpg"
+      },
+      {
+        "title":"Ruby on Rails",
+        "category":"Coding in ruby is awesome! I typically gravitate towards ruby because it is a very comfortable language, with many helpful bits and pieces.",
+        "image":"rails.jpg"
+      },
+      {
+        "title":"Test Driven Development",
+        "category":"I would love to practice TDD more. I have experience with both Rspec and Unit testing.",
+        "image":"tdd.jpg"
+      },
+      {
+        "title":"CSS",
+        "category":"CSS is surprising powerful. I find myself getting lost vertically while making minor edits.",
+        "image":"css.jpg"
+      },
+      {
+        "title":"SQL",
+        "category":"We used SQL in our coding bootcamp, I did not thoroughly enjoy it, but I can definitely navigate databases.",
+        "image":"sql.jpg"
+      },
+      {
+        "title":"MVC, C#",
+        "category":"C# is a great language to start on,learning how to navigate multiple languages/frameworks was very helpful.",
+        "image":"csharp.jpg"
+      },
+      {
+        "title":"React Native",
+        "category":"I am still learning React Native, hopefully by the time you see this, I will have a mobile version of my resume up.",
+        "image":"native.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MovieDBSearch",
+        "category":"This react app showcases use of the MovieDB api, with a working movie title search",
+        "image":"moviedb.jpg",
+        "url":"https://youngestbuffalo.github.io/movieApiSearch/"
+      },
+      {
+        "title":"MovieDBSearch Git Repo",
+        "category":"This is a link to the code.",
+        "image":"moviedb.jpg",
+        "url":"https://github.com/YoungestBuffalo/movieApiSearch"
+      },
+      
+      {
+        "title":"Color Blocks",
+        "category":"Basic HTML Website",
+        "image":"colorBlocks.jpg",
+        "url":"https://youngestbuffalo.github.io/colorblocksHTML/"
+      },
+      {
+        "title":"Color Blocks Git Repo",
+        "category":"Here was the HTML code",
+        "image":"colorBlocks.jpg",
+        "url":"https://github.com/YoungestBuffalo/colorblocksHTML"
+      }
+    ],
+    "projects2": [
+      {
+        "title":"Game of Life",
+        "category":"C#/MVC windows app, Conway's game of life, THIS IS NOT POSTED OR FINISHED. The link brings you to the current sites repo",
+        "image":"gol.gif",
+        "url":"https://github.com/YoungestBuffalo/resume-site"
+      },
+      {
+        "title":"Rogue Game",
+        "category":"This project/idea is originally a fork from Jean Lange, and a project we worked on in class in ruby. I will eventually work towards posting a js version, or windows app, I have not decided. This is the old repo link.",
+        "image":"rogue.gif",
+        "url":"https://github.com/YoungestBuffalo/rogue"
+      }
+     
+    ]
+  } ,
+  "testimonials":{
+    "testimonials":[
+     
+     
+    ]
+  }
+ }
+ 
