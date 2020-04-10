@@ -1,4 +1,5 @@
 # TODO
+- streamline text to a flexble position that doesnt break with different screen resolutions
 - mobile responsive text and image
 - fix email form
 - figure out problems with ghpages changing/squishing js files
