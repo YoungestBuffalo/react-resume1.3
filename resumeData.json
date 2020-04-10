@@ -59,18 +59,20 @@
       }
     ],
     "work":[
+
+      {
+        "company":"AHN/Highmark Health",
+        "title":"Contracted Web Developer/Content Author",
+        "years":"December 2019 - Present",
+        "description":"Moving new and old content from drupal system to AEM. Use Agile to develop new ideas and learn new/old technologies while implementing additional content."
+      },
       {
         "company":"Fairmont Pittsburgh",
         "title":"Steward ",
-        "years":"August 2017 - Present",
-        "description":"I worked overnights cleaning the large equipment (grills, fryers, etc) for a year, now I work during the day doing various cleaning tasks"
-      },
-      {
-        "company":"Chipotle Mexican Grill",
-        "title":"Crew Member",
-        "years":"November 2014 - August 2017",
-        "description":"I worked here as soon as I got my workers permit. I worked all through high school. I can still make a mean burrito."
+        "years":"August 2017 - November 2019",
+        "description":"I worked overnights cleaning the large equipment (grills, fryers, etc) for a year, eventually I switched to work during the day doing various cleaning tasks"
       }
+      
     ],
     "skills":[
       {
