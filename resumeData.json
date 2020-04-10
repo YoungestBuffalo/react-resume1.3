@@ -61,8 +61,8 @@
     "work":[
 
       {
-        "company":"AHN/Highmark Health",
-        "title":"Contracted Web Developer/Content Author",
+        "company":"Highmark Health",
+        "title":"Web Developer, Content Author",
         "years":"December 2019 - Present",
         "description":"Moving new and old content from drupal system to AEM. Use Agile to develop new ideas and learn new/old technologies while implementing additional content."
       },
@@ -76,10 +76,9 @@
     ],
     "skills":[
       {
-        "title":"Git",
-        "category":"I am very comfortable using Git and Github, and Git pages. I might have to look up how to get out of vim.",
-        "image":"github.jpg"
-       
+        "title":"Adobe Experience Manager",
+        "category":"I have learned alot about AEM from my work on AHN's new website.",
+        "image":"AEM.jpg"
       },
       {
         "title":"React.Js",
@@ -87,14 +86,14 @@
         "image":"react.jpg"
       },
       {
+        "title":"Drupal",
+        "category":"I have learned a bit about drupal while working for Highmark Health, mostly with minor updates and mobile responsive design.",
+        "image":"drupal.jpg"
+      },
+      {
         "title":"Ruby on Rails",
         "category":"Coding in ruby is awesome! I typically gravitate towards ruby because it is a very comfortable language, with many helpful bits and pieces.",
         "image":"rails.jpg"
-      },
-      {
-        "title":"Test Driven Development",
-        "category":"I would love to practice TDD more. I have experience with both Rspec and Unit testing.",
-        "image":"tdd.jpg"
       },
       {
         "title":"CSS",
@@ -112,10 +111,12 @@
         "image":"csharp.jpg"
       },
       {
-        "title":"React Native",
-        "category":"I am still learning React Native, hopefully by the time you see this, I will have a mobile version of my resume up.",
-        "image":"native.jpg"
+        "title":"Git",
+        "category":"I am very comfortable using Git and Github, and Git pages.",
+        "image":"github.jpg"
+       
       }
+      
     ]
   },
   "portfolio":{
