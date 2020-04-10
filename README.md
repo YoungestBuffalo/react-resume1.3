@@ -1,3 +1,8 @@
+# TODO
+-mobile responsive text and image
+-fix email form
+-figure out problems with ghpages changing/squishing js files
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
